@@ -8,7 +8,7 @@ h1{
     flex-direction: column;
     align-items: center;
 }
-#image-caption{
+#img-caption{
     padding: 20px 40px;
     text-align: center;
 }
@@ -23,7 +23,7 @@ h1{
 .listElement{
     padding:5px 5px;
 }
-#content-div{
+#tribute-info{
     display:flex;
     justify-content: center;
 }
