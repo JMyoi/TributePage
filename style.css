@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+}
+#img-div{
+    display: flex;
+    background-color: rgb(199, 190, 190);
+    margin: 0 50px;
+    flex-direction: column;
+    align-items: center;
+}
+#image-caption{
+    padding: 20px 40px;
+    text-align: center;
+}
+#content{
+    display:flex;
+    width: 500px;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+.listElement{
+    padding:5px 5px;
+}
+#content-div{
+    display:flex;
+    justify-content: center;
+}
